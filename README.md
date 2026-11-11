@@ -26,7 +26,5 @@ Run Claude Code, Codex and other coding agents side by side, each on its own git
 
 ### Claude Code skills
 
-| | |
-|---|---|
-| [**hustle-design-kit**](https://github.com/hustle-x/hustle-design-kit) | The 20 skills a working designer uses: design, motion, reference, token saving. One command installs them all, from their original authors. |
-| [**slim-claude-md**](https://github.com/hustle-x/slim-claude-md) | Shrinks a bloated `CLAUDE.md` by moving its history, word for word, into `docs/notes/`, with a line-by-line check. |
+- [**hustle-design-kit**](https://github.com/hustle-x/hustle-design-kit): the 20 skills a working designer uses, for design, motion, reference and token saving. One command installs them all, from their original authors.
+- [**slim-claude-md**](https://github.com/hustle-x/slim-claude-md): shrinks a bloated `CLAUDE.md` by moving its history, word for word, into `docs/notes/`, with a line-by-line check.
